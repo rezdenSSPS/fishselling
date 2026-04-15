@@ -36,7 +36,9 @@ A premium seafood e-commerce website built as a school group project. Browse the
 
 ```
 fishselling/
-├── index.html    # Main page
+├── index.html    # Main page (Hero, Shop, Newsletter)
+├── recipes.html  # Recipes page
+├── about.html    # About our fishermen page
 ├── script.js     # All JavaScript logic
 └── README.md     # This file
 ```
